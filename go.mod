@@ -1,4 +1,4 @@
-module github.com/pterm/cli-template
+module github.com/hesusruiz/go-siop2
 
 go 1.16
 
